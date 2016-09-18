@@ -2,7 +2,7 @@
 
 "Uber for tutors," Socrates is a mobile app that a friend and I developed (he did the business, I did the tech) last summer, after realizing that the way tutors and tutees were finding each other was still by posting physical sheets of paper around campus, as though we had just invented fire and the internet was but a twinkling in Al Gore's eye.
 
-This repository is the minimum viable product (depending on whether or not our Firebase account is still active) where tutors can make profiles, which can be fetched and viewed by anyone who downloads the app.
+The Android repository is the minimum viable product (depending on whether or not our Firebase account is still active) where tutors can make profiles, which can be fetched and viewed by anyone who downloads the app.
 
 #Core Features
 
